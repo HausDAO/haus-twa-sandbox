@@ -427,6 +427,18 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@twa-dev/sdk@^6.9.1":
+  version "6.9.1"
+  resolved "https://registry.yarnpkg.com/@twa-dev/sdk/-/sdk-6.9.1.tgz#bebaf53b8350e87b8f80134f87c5921d4e15a517"
+  integrity sha512-R+3a/IRG97NFHS1PF+rj/F2n+cwsHtW1LWGVP0pzIzMK709oMy00qJPV0wxbS16hzcvcW9hPVNwHYTPMv4rrEQ==
+  dependencies:
+    "@twa-dev/types" "^6.9.0"
+
+"@twa-dev/types@^6.9.0":
+  version "6.9.0"
+  resolved "https://registry.yarnpkg.com/@twa-dev/types/-/types-6.9.0.tgz#5f978e63dcb8ec507ae2b035774ff568c5ebb69a"
+  integrity sha512-hBkIuJgVtkLAPPhKsNfgyBpgS+15spzUScy5jgpfPJPqXPaaUVDTaWHbeEUU+lUgHmryeQjWyz+UjS7987Pyaw==
+
 "@types/babel__core@^7.20.3":
   version "7.20.4"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.20.4.tgz#26a87347e6c6f753b3668398e34496d6d9ac6ac0"
